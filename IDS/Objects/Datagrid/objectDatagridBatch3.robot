@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation  This file will hold all the objects that can be found in the 2nd batch of datagrid
+Documentation  This file will hold all the objects that can be found in the 3rd batch of datagrid
 
 *** Variables ***
 #Component Datagrid main

@@ -1,6 +1,6 @@
 *** Settings ***
-Documentation  This will show all the Test Cases that can be found in Datagrid Component 2nd batch
-...            This file also includes all the scripts for Datagrid Component 2nd batch
+Documentation  This will show all the Test Cases that can be found in Datagrid Component 3rd batch
+...            This file also includes all the scripts for Datagrid Component 3rd batch
 Resource    ../../Scenarios/scenarioGeneric.robot
 Resource    ../../Scenarios/Datagrid/scenarioDatagridBatch3.robot
 Resource    ../../TestData/Datagrid/testData_datagrid.robot

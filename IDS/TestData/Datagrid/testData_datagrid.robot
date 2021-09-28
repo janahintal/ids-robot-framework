@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation  This file will hold all the Test Data for Datagrid Component Batch 1
+Documentation  This file will hold all the Test Data for Datagrid Components
 
 *** Variables ***
 #Datagrid URLs
@@ -15,6 +15,7 @@ ${datagrid_customFilterConditionsURL}  https://main-enterprise.demo.design.infor
 ${datagrid_customToolbarFlexURL}  https://main-enterprise.demo.design.infor.com/components/datagrid/example-custom-toolbar-flex.html
 ${datagrid_customToolbarURL}  https://main-enterprise.demo.design.infor.com/components/datagrid/example-custom-toolbar.html
 ${datagrid_disabledRowsURL}  https://main-enterprise.demo.design.infor.com/components/datagrid/example-disabled-rows.html
+${datagrid_drilldownURL}  https://main-enterprise.demo.design.infor.com/components/datagrid/example-drilldown.html
 ${datagrid_editableURL}  https://main-enterprise.demo.design.infor.com/components/datagrid/example-editable.html
 ${datagrid_emptyMessageURL}  https://main-enterprise.demo.design.infor.com/components/datagrid/example-empty-message.html
 ${datagrid_expandableCellsURL}  https://main-enterprise.demo.design.infor.com/components/datagrid/example-expandable-cells.html

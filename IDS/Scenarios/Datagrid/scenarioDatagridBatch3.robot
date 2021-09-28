@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation  This will show all the scenarios that can be found or made in Datagrid Component 2nd batch
+Documentation  This will show all the scenarios that can be found or made in Datagrid Component 3rd batch
 ...            This file also calls the needed objects for Datagrid Component 2nd batch
 Resource       ../../Config/Setup.robot    #For the Environment & Library
 Resource       ../../Objects/objectGeneric.robot
