@@ -3,8 +3,18 @@ Documentation  This file will hold all the objects that can be found in the 4th 
 
 *** Variables ***
 #Component Datagrid main
-${pageDatagrid_exampleDisabledRowsTitle}  //span[contains(text(),'example disabled rows')]
-${pageDatagrid_exampleEditableTitle}  //span[contains(text(),'example editable')]
-${pageDatagrid_exampleEmptyMessageTitle}  //span[contains(text(),'example empty message')]
-${pageDatagrid_exampleExpandCellsTitle}  //span[contains(text(),'example expandable cells')]
-${pageDatagrid_exampleExpandRowOneOnlyTitle}  //span[contains(text(),'example expandable row one only')]
+${pageDatagrid_exampleExpandRow}  //a[@href='./example-expandable-row.html']//span[contains(text(),'example expandable row')]
+${pageDatagrid_exampleExportFromButtonTitle}  //span[contains(text(),'example export from button')]
+${pageDatagrid_exampleFilterTitle}  //span[contains(text(),'example filter')]
+${pageDatagrid_exampleFixedHeaderTitle}  //span[contains(text(),'example fixed header')]
+${pageDatagrid_exampleFrozenColumnsTitle}  //span[contains(text(),'example frozen columns')]
+
+#Example Expandable Row
+
+#Example Export From Button
+
+#Example Filter
+
+#Example Fixed Header
+
+#Example Frozen Columns
