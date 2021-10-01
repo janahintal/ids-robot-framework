@@ -20,3 +20,4 @@ ${datagrid_editableURL}  https://main-enterprise.demo.design.infor.com/component
 ${datagrid_emptyMessageURL}  https://main-enterprise.demo.design.infor.com/components/datagrid/example-empty-message.html
 ${datagrid_expandableCellsURL}  https://main-enterprise.demo.design.infor.com/components/datagrid/example-expandable-cells.html
 ${datagrid_expandableRowOneOnlyURL}  https://main-enterprise.demo.design.infor.com/components/datagrid/example-expandable-row-one-only.html
+

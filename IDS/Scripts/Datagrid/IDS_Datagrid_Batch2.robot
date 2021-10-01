@@ -24,7 +24,7 @@ Ending Script Execution
 Load Datagrid Component
     [Documentation]  This will load datagrid component
     Load Datagrid Component
-
+    
 Click Example Compact Mode, Verify More Actions - Compact Mode size
     [Documentation]  This will verify more actions (versions, modes, & colors) and if compact mode sizes are changing
     Click Example Compact Mode

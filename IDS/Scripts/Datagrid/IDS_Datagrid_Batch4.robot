@@ -6,3 +6,4 @@ Resource    ../../Scenarios/Datagrid/scenarioDatagridBatch4.robot
 Resource    ../../TestData/Datagrid/testData_datagrid.robot
 
 *** Test Cases ***
+

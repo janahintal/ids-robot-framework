@@ -95,3 +95,5 @@ ${pageBooks_moreActionsXSButton}  //a[contains(text(),'Extra Small')]
 ${pageBooks_moreActionsSButton}  //a[contains(text(),'Small')]
 ${pageBooks_moreActionsMButton}  //a[contains(text(),'Medium')]
 ${pageBooks_moreActionsLSButton}  //a[contains(text(),'Large')]
+
+

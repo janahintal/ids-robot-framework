@@ -12,3 +12,4 @@ Load Datagrid Component
     Maximize Browser Window
     Wait Until Location Contains    ${test_datagrid_URL}
     Wait Until Page contains element    ${pageDatagrid_verifyHeader}    timeout=60
+
