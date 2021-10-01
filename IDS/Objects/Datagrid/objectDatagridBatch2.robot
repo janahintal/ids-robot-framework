@@ -86,3 +86,12 @@ ${pageCT_moreActionsMButton}  //a[contains(text(),'Medium')]
 ${pageCT_moreActionsLSButton}  //a[contains(text(),'Large')]
 ${pageCT_compactModeToggle}  //button[@id='toggle-compact']
 ${pageCT_toolbarSearchField}  //input[@id='common-toolbar-searchfield']
+
+#Button Actions Personalize Columns/Row Height
+${pageBooks_moreActionsButton}  //div[@class='more']//button[@class='btn-actions has-tooltip is-selected hide-focus']
+${pageBooks_moreActionsPCButton}  //a[contains(text(),'Personalize Columns')]
+${pageBooks_moreActionsRHHeader}  //li[contains(text(),'Row Height')]
+${pageBooks_moreActionsXSButton}  //a[contains(text(),'Extra Small')]
+${pageBooks_moreActionsSButton}  //a[contains(text(),'Small')]
+${pageBooks_moreActionsMButton}  //a[contains(text(),'Medium')]
+${pageBooks_moreActionsLSButton}  //a[contains(text(),'Large')]
