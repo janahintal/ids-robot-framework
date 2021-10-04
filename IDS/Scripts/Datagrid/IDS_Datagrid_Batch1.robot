@@ -5,7 +5,6 @@ Resource    ../../Scenarios/scenarioGeneric.robot
 Resource    ../../Scenarios/Datagrid/scenarioDatagridBatch1.robot
 Resource    ../../TestData/Datagrid/testData_datagrid.robot
 
-
 *** Test Cases ***
 Load Datagrid Component
     [Documentation]  This will load datagrid component

@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b953c4c-c25f-4dc9-9856-a9fdfad3f19c" name="Changes" comment="robot scripts">
-      <change beforePath="$PROJECT_DIR$/IDS/Objects/Datagrid/objectDatagridBatch1.robot" beforeDir="false" afterPath="$PROJECT_DIR$/IDS/Objects/Datagrid/objectDatagridBatch1.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDS/Objects/Datagrid/objectDatagridBatch2.robot" beforeDir="false" afterPath="$PROJECT_DIR$/IDS/Objects/Datagrid/objectDatagridBatch2.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDS/Objects/Datagrid/objectDatagridBatch3.robot" beforeDir="false" afterPath="$PROJECT_DIR$/IDS/Objects/Datagrid/objectDatagridBatch3.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDS/Objects/Datagrid/objectDatagridBatch4.robot" beforeDir="false" afterPath="$PROJECT_DIR$/IDS/Objects/Datagrid/objectDatagridBatch4.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDS/Scenarios/Datagrid/scenarioDatagridBatch4.robot" beforeDir="false" afterPath="$PROJECT_DIR$/IDS/Scenarios/Datagrid/scenarioDatagridBatch4.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDS/Scripts/Datagrid/IDS_Datagrid_Batch2.robot" beforeDir="false" afterPath="$PROJECT_DIR$/IDS/Scripts/Datagrid/IDS_Datagrid_Batch2.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDS/Scripts/Datagrid/IDS_Datagrid_Batch3.robot" beforeDir="false" afterPath="$PROJECT_DIR$/IDS/Scripts/Datagrid/IDS_Datagrid_Batch3.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDS/Scripts/Datagrid/IDS_Datagrid_Batch4.robot" beforeDir="false" afterPath="$PROJECT_DIR$/IDS/Scripts/Datagrid/IDS_Datagrid_Batch4.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDS/TestData/Datagrid/testData_datagrid.robot" beforeDir="false" afterPath="$PROJECT_DIR$/IDS/TestData/Datagrid/testData_datagrid.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDS/Scripts/Datagrid/IDS_Datagrid_Batch1.robot" beforeDir="false" afterPath="$PROJECT_DIR$/IDS/Scripts/Datagrid/IDS_Datagrid_Batch1.robot" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
